@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "monsieurm",
+        "mastodon": "https://mastodon.social/@monsieurm"
+    },
+    "records": {
+        "CNAME": "monsieurm.github.io"
+    }
+}
